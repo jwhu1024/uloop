@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/uloop.dir/test_uloop.c.o CMakeFiles/uloop.dir/uloop.c.o  -o uloop -rdynamic -lrt 
